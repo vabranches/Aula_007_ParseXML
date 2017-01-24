@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<pessoas>
+    <aluno>
+        <nome>Jose</nome>
+        <idade>25</idade>
+    </aluno>
+    <aluno>
+        <nome>Francisco</nome>
+        <idade>30</idade>
+    </aluno>
+    <aluno>
+        <nome>Antonio</nome>
+        <idade>20</idade>
+    </aluno>
+    <aluno>
+        <nome>Anibal</nome>
+        <idade>15</idade>
+    </aluno>
+</pessoas>

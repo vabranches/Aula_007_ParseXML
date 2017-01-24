@@ -12,6 +12,7 @@
 		43FB03E51E37FF57002596DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FB03E31E37FF57002596DB /* Main.storyboard */; };
 		43FB03E71E37FF57002596DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43FB03E61E37FF57002596DB /* Assets.xcassets */; };
 		43FB03EA1E37FF57002596DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43FB03E81E37FF57002596DB /* LaunchScreen.storyboard */; };
+		43FB03F41E38008D002596DB /* dados.xml in Resources */ = {isa = PBXBuildFile; fileRef = 43FB03F31E38008D002596DB /* dados.xml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		43FB03E61E37FF57002596DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43FB03E91E37FF57002596DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		43FB03EB1E37FF57002596DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43FB03F31E38008D002596DB /* dados.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = dados.xml; path = ../dados.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		43FB03DE1E37FF57002596DB /* Aula_007_Parse */ = {
 			isa = PBXGroup;
 			children = (
+				43FB03F31E38008D002596DB /* dados.xml */,
 				43FB03DF1E37FF57002596DB /* AppDelegate.swift */,
 				43FB03E11E37FF57002596DB /* ViewController.swift */,
 				43FB03E31E37FF57002596DB /* Main.storyboard */,
@@ -127,6 +130,7 @@
 				43FB03EA1E37FF57002596DB /* LaunchScreen.storyboard in Resources */,
 				43FB03E71E37FF57002596DB /* Assets.xcassets in Resources */,
 				43FB03E51E37FF57002596DB /* Main.storyboard in Resources */,
+				43FB03F41E38008D002596DB /* dados.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
